@@ -1,0 +1,23 @@
+.main{
+    border: 3px solid black;
+    padding: 5px;
+    margin: auto;
+    width: 400px;
+    background-color: hotpink;
+    text-align: center;
+}
+.input{
+    padding: 5px;
+    /* margin-top: 10px; */
+}
+.button{
+    margin-top: 20px;
+    width: 80px;
+    text-align: left;
+    margin-bottom: 20px;
+    background: url();
+}
+.left{
+    text-align: left;
+    margin-left: 10px;
+}
